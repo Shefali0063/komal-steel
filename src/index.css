@@ -267,3 +267,21 @@ body {
 .whatsapp-btn:hover {
   transform: scale(1.1);
 }
+
+.location-btn {
+  position: fixed;
+  bottom: 95px;
+  right: 30px;
+  background-color: #d4af37;
+  color: black;
+  padding: 15px 22px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  transition: 0.3s;
+}
+
+.location-btn:hover {
+  transform: scale(1.1);
+}

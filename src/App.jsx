@@ -22,6 +22,14 @@ function App() {
         WhatsApp
       </a>
 
+      <a
+        href="https://maps.google.com/?q=Komal+House+Udhna+Central+Road+No+5+Surat"
+        className="location-btn"
+        target="_blank"
+      >
+        Location
+      </a>
+
       <Footer />
     </>
   );
